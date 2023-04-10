@@ -1,4 +1,6 @@
 # Aether_2k23-Data-Challenge
+Author: Sathvik Tummala
+<br> 
 
 The files ```sample.csv ``` is created for training only by sampling out the data from data(which is cleaned by me after performing data cleaning operations from the original given datasets(4 datasets))<br>
 The files ```sample_test.csv ``` is created for model testing by sampling out the data from data(which is cleaned by me after performing data cleaning operations from the original given datasets(4 datasets))<br>
@@ -20,4 +22,4 @@ P.S. You can refer below image for the work flow
  
 <img src="https://github.com/sathvik213/Aether_2k23-Data-Challenge/blob/main/ref.jpg" width="250">
 
-Author: Sathvik Tummala
+
